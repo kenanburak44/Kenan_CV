@@ -1,21 +1,20 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Kenan Burak Aydin
+description: Agriculture Engineer
+site_title: 'Kenan CV'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: kenanburak44
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+email: kenanburak44@gmail.com
+keybase_username:
+twitter_username: kenan_burak
+facebook_username: kenanburak
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
 
-# Google Analytics ID
-google_analytics: 
+# Quantitative Genetics
