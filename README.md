@@ -35,13 +35,13 @@
 
 \begin{document}
 
-\name{Kenan Burak Aydin \hspace{12.2cm} January 2022 \vspace*{.1in}}
+\name{Kenan Burak Aydin \hspace{12.2cm} July 2023 \vspace*{.1in}}
 
 \begin{resume}
 \section{\sc Contact Information}
 \vspace{.05in}
 \begin{tabular}{@{}p{2in}p{4in}}
-3670 Litton Reaves Hall  & \hspace{2.5cm} {\it E-mail:}  \href{mailto:kenanburak@vt.edu}{kenanburak@vt.edu} \\       
+2470 Litton Reaves Hall  & \hspace{2.5cm} {\it E-mail:}  \href{mailto:kenanburak@vt.edu}{kenanburak@vt.edu} \\       
  175 West Campus Drive  & \hspace{2.5cm} {\it Phone:} (571) 776-9717\\     
 Virginia Tech  & \hspace{2.5cm} {\it WWW:} \textcolor{blue}{\href{https://github.com/kenanburak44/}{github.com/kenanburak44}  }\\
 Blacksburg, Virginia 24061 USA  & \\
@@ -68,7 +68,7 @@ My main research interest is to apply genomics, phonemics, and statistical model
 \end{list1}
 
 
-\textbf{Gaziosmanpasa University}, Tokat, TURKEY \\
+\textbf{Gaziosmanpasa University}, Tokat, Turkey \\
 \vspace*{-.1in}
 \begin{list1}
 \item[] M.S., Animal Breeding and Genetics, August 2016 
@@ -76,13 +76,13 @@ My main research interest is to apply genomics, phonemics, and statistical model
 \vspace*{.05in}
 \item Thesis:``Determination of live body weights and body measurements of the hair goats raised in Tokat"
 \vspace{0.2cm}
-\item Advisor: Dr. Zafer Ulutas
+\item Advisor: Dr. Zafer Uluta\c{s}
 \end{list2}
 \vspace*{.05in}
 \end{list1}
 
 
-{\bf Gaziosmanpasa University}, Tokat, TURKEY \\
+{\bf Gaziosmanpasa University}, Tokat, Turkey \\
 \vspace*{-.1in}
 \begin{list1}
 \item[] B.S., Agriculture Engineer, May 2012
@@ -92,8 +92,8 @@ My main research interest is to apply genomics, phonemics, and statistical model
 \vspace{0.4cm}
 \section{\sc Work \phantom{1cm} Experience}
 
-\vspace*{.05in}\\
-\textbf{Animal Science Federation of Turkey}, Ankara, TURKEY
+\vspace*{.05in}
+\textbf{Animal Science Federation of Turkey}, Ankara, Turkey  \\
  
 \begin{list2}
 \vspace*{.05in}
@@ -105,7 +105,7 @@ My main research interest is to apply genomics, phonemics, and statistical model
 \vspace{-.4cm}
 
 
-\textbf{Tokat Public Education Center}, Tokat, TURKEY
+\textbf{Tokat Public Education Center}, Tokat, Turkey
 
 \begin{list2}
 \vspace*{.05in}
@@ -118,7 +118,7 @@ My main research interest is to apply genomics, phonemics, and statistical model
 
 \begin{list2}
 \vspace*{.05in}
-\item Agricultural engineer  \hfill {\bf 03/2013 - 03/2015}\\
+\item Agricultural Engineer  \hfill {\bf 03/2013 - 03/2015}\\
 \vspace{0.2pt}
 
 \end{list2}
@@ -126,25 +126,70 @@ My main research interest is to apply genomics, phonemics, and statistical model
 \textbf{Elit Zengen Farm}, Konya, Turkey
 \begin{list2}
 \vspace*{.05in}
-\item Agricultural engineer   \hfill {\bf 04/2012 - 03/2013}\\
+\item Agricultural Engineer   \hfill {\bf 04/2012 - 03/2013}\\
 \vspace{0.2pt}
 \end{list2}
+
+\vspace{0.0cm}
+\section{\sc Editorial Activities}
+\vspace{0.2cm}
+\underline{Ad Hoc Reviewer}
+\vspace{0.4cm}
+\begin{list2}
+\item Number of manuscripts reviewed per journal: Journal of Animal Science (1).
+\vspace*{.05in}
+\end{list2}
+\vspace{1.0cm}
+
+\vspace{0.0cm}
+\section{\sc Peer reviewed research journal articles}
+\vspace{0.2cm}
+\vspace{0.4cm}
+\begin{list2}
+\item \c{S}ahin, Aziz and Aksoy, Y{\"u}ksel and U{\u{g}}urlutepe, Emre and Uluta{\c{s}}, Zafer and Erin{\c{c}}, Hakan and \underline{\textbf{Ayd{\i}n, Kenan Burak}}. Fatty acid and conjugated linoleic acid content of Anatolian buffaloes at different muscle types and slaughter weight. {\it Journal of Tropical Animal Health and Production}. 54:398. doi: \textcolor{blue}{\href{https://link.springer.com/article/10.1007/s11250-022-03391-5}{10.1007/s11250-022-03391-5}} 
+
+
+\vspace*{.05in}
+\end{list2}
+\vspace{1.0cm}
+
+\vspace{0.0cm}
+\section{\sc Teaching}
+\vspace{0.9cm}
+\section{\sc 2023}
+\begin{list2}
+\item Teaching Assistant: ALS 3104 Animal Breeding and Genetics, Virginia Tech, VA. Spring 2023.
+\vspace*{.05in}
+\end{list2}
+\vspace{1.0cm}
 
 \vspace{0.0cm}
 \section{\sc Professional society memberships}
 \begin{list2}
 \item American Society of Animal Science. 2022 - Present
 \vspace*{.05in}
-\item Animal Science Federation of Turkey. 2017, 2018, and 2019 \vspace*{.05in}
+\item Animal Science Federation of Turkey. 2017 - 2019\vspace*{.05in}
 \item Animal Science Federation of Tokat. 2016
 \end{list2}
-
 \vspace{1.0cm}
 
+\vspace{0.0cm}
+\section{\sc Intramural Seminars}
+\vspace{0.9cm}
+\section{\sc 2022}
+\begin{list2}
+\item Literature review: Genomic selection in sheep breeding. Animal Data Science lab meeting. April 29. 
+\vspace*{.05in}
+\end{list2}
+\vspace{1.0cm}
 
 \section{ \sc Additional training}
 \begin{list2}
 \vspace{0.9cm}
+
+\section{\sc 2022}
+
+\item Programming with R and RStudio, Virginia Tech, VA,   January 10.
 
 \section{\sc 2021}
 
@@ -166,9 +211,7 @@ My main research interest is to apply genomics, phonemics, and statistical model
 \item Getting Started with EndNote, Virginia Tech, VA,  September 20.
 \vspace{0.2cm}
 
-\section{\sc 2022}
 
-\item Programming with R and RStudio, Virginia Tech, VA,   January 10.
 \vspace{0.2cm}
 
 \end{list2}
@@ -179,7 +222,7 @@ My main research interest is to apply genomics, phonemics, and statistical model
 \vspace{0.9cm}
 \item Dr. Gota Morota. Assistant Professor. Department of Animal and Poultry Sciences, Virginia Polytechnic Institute and State University, USA. Email: morota@vt.edu
 \vspace*{0.2cm}
-\item Dr. Zafer Ulutas. Professor. Department of Animal Science, Ondokuz Mayıs University, TURKEY. Email: zaferulutas@nigde.edu.tr \vspace*{0.2cm}
+\item Dr. Zafer Uluta\c{s}. Professor. Department of Animal Science, Ondokuz Mayıs University, Turkey. Email: zulutas@omu.edu.tr \vspace*{0.2cm}
 \item Dr. Hayrettin Okut. Research Associate. University of Kansas Medical Center, USA. Email: hokut@kumc.edu
 \vspace{0.2cm}
 
@@ -189,7 +232,3 @@ My main research interest is to apply genomics, phonemics, and statistical model
 
 \end{resume}
 \end{document}
-
-
-
-
